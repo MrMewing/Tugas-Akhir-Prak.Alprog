@@ -67,7 +67,7 @@ Visualisasi rata-rata jumlah komplain berdasarkan tahun.
 ### 📷 Hasil
 
 <p align="center">
-  <img src="images/agregasi.png" width="750">
+  <img src="images/soal1_bar_komplain_tahunan.png" width="750">
 </p>
 
 ---
@@ -81,7 +81,7 @@ Visualisasi tren jumlah panggilan layanan selama periode tertentu.
 ### 📷 Hasil
 
 <p align="center">
-  <img src="images/tren_filter.png" width="750">
+  <img src="images/soal2_line_info_kesehatan_2020.png" width="750">
 </p>
 
 ---
@@ -95,7 +95,7 @@ Analisis hubungan antar variabel menggunakan scatter plot.
 ### 📷 Hasil
 
 <p align="center">
-  <img src="images/korelasi.png" width="750">
+  <img src="images/soal3_scatter_doctor_ratio.png" width="750">
 </p>
 
 ---
@@ -109,7 +109,7 @@ Visualisasi distribusi data menggunakan pendekatan kategorisasi dan histogram.
 ### 📷 Hasil
 
 <p align="center">
-  <img src="images/distribusi.png" width="750">
+  <img src="images/soal4_pie_density_bulanan.png" width="750">
 </p>
 
 ---
@@ -127,7 +127,7 @@ fig, ax = plt.subplots(2,2, figsize=(12,8))
 ### 📷 Hasil Dashboard
 
 <p align="center">
-  <img src="images/dashboard_2x2.png" width="900">
+  <img src="images/grafik5_gabungan_2x2.png" width="900">
 </p>
 
 ---
